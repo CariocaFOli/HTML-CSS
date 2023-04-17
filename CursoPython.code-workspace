@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../../PyCharm/CursoPython"
+		},
+		{
+			"path": "../../../../Programação/Curso Programação/Curso de HTML e CSS"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Curso de HTML e CSS",
+		"editor.wordWrap": "on",
+		"editor.fontSize": 14
+	}
+}
